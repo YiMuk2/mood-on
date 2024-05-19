@@ -1,0 +1,22 @@
+.Header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: #FFFFFF;
+  padding: 0 13px;
+  height: 42px;
+}
+
+.btns {
+  display: flex;
+  gap: 24px;
+}
+
+.btn {
+  width: 24px;
+  height: 24px;
+}
